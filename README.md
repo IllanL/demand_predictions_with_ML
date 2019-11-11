@@ -1,4 +1,4 @@
-# factory-demand-prediction
+# Predicting the demand of a bakery
 
 Overview
 ---
@@ -55,6 +55,5 @@ Collaborators
 ---
 
  - Illán Lois Bermejo
- - Miguel Ruiz Nogues
+ - Miguel Ruiz Nogués
 
-test
